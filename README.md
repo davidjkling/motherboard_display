@@ -1,6 +1,6 @@
-# Motherboard Display
+# Motherboard Wall Display
 
-How-To on displaying old motherboards.
+How-To on displaying old motherboards on the wall.
 
 Information on all the needed items to hang a standard ATX (12" x 9.6") motherboard on the wall.
 
